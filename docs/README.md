@@ -1,5 +1,5 @@
 layout: post
-title: "README"
+title: "About Our App"
 date: 2026-04-23 18:15:00 -0700
 
 # About Our App
@@ -10,4 +10,4 @@ This application integrates with **n8n** to support and streamline our automated
 ## Privacy Policy
 We are committed to protecting your data. For detailed information on how we handle your information, please review our privacy policy:
 
-[Privacy Policy](https://privacy.charlemagne.app)
+[Privacy Policy](privacy)
