@@ -1,3 +1,7 @@
+layout: post
+title: "PRIVACY POLICY"
+date: 2026-04-23 18:15:00 -0700
+
 # PRIVACY POLICY
 
 **Last updated April 23, 2026**
